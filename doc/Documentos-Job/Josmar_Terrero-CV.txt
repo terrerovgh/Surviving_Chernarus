@@ -1,0 +1,35 @@
+Josmar Terrero Ruiz
+terrerov@gmail.com
+Professional Summary
+Highly motivated IT T echnician with experience in systems administration, network
+management, and technical support. Proven ability to manage GNU/Linux and Windows
+servers, as well as LAN, WAN, and WLAN networks. Managing critical services such as
+Active Directory, DNS, DHCP , web servers, and firewalls. Passionate about process
+automation and virtualization with Docker and Kubernetes.
+Technical Skills
+● Operating Systems: GNU/Linux, Windows Server
+● Network Services: Active Directory, DNS, DHCP , FTP , VPN, Proxy, HTTPS
+(Windows & Linux)
+● Network Security: firewalls, security tools, VLAN, LAN, WAN, WLAN
+● Virtualization & Containers: Docker, Kubernetes, Proxmox VE
+● Databases: SQL Server, PostgreSQL
+● Network Hardware: Routers, Switches (Layer 2 & Layer 3)
+● Other: Server Administration, Hardware & Software Troubleshooting, T echnical
+Support.
+Work Experience
+● Computer Science Specialist (Network and Systems Administrator) Camagüey
+Meteorological Center, Institute of Meteorology of Cuba June 2016 – June 2022
+○ Managed and maintained the computer network for the Radar Center and
+Meteorological Center.
+○ Administered network servers and services: Active Directory, DNS, DHCP ,
+email, FTP , firewalls, VLAN, LAN, WLAN, WAN.
+○ Managed radar data processing systems (ORPG, VESTA) and web mapping
+systems.
+○ Administered the Radar Center's data processing and distribution data center.
+● Computer Science Specialist (Accounting Systems Administrator) Universidad
+de Camagüey, Department of Economics September 2015 – September 2016
+○ Managed and maintained the accounting system server and clients.
+○ Administered SQL Server databases.
+○ Managed and maintained the Department of Economics computer network.
+Education
+● Computer Engineering Degree Universidad de Camagüey, Cuba 2010 – 2015

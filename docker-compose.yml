@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  mdsrenderer:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: mdsrenderer
+    restart: unless-stopped
+    environment:
+      - TERM=xterm-256color
+      # TTY device can be overridden when running the container
+      # Default to /dev/tty to display in current terminal
+      - TTY_DEVICE=${TTY_DEVICE:-/dev/tty}
+    # Use tty and stdin_open to ensure terminal capabilities work correctly
+    tty: true
+    stdin_open: true
+    # Add device mapping for TTY access
+    devices:
+      - "/dev/tty1:/dev/tty1"
+      - "/dev/tty:/dev/tty"
